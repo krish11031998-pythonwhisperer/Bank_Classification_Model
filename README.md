@@ -1,4 +1,4 @@
-# Deep Learning Projects
+# Bank Classifying Model
 
-These are the deep Learning projects I worked on  during my ML/Deep Learning learn/application phase . Look out for more projects I will be uploading here !!
+Designed and Built a Aritficial Neural Network that can learn and classify if the bank account holder will leave or stay with the bank based on their data (Account Balance, Credit Score , Location,etc.)
 
